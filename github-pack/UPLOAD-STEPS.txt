@@ -1,0 +1,3 @@
+STEP 1: Create a new GitHub repository for the learning pack. Keep it private while you review the contents and confirm platform status. Do not upload excluded source files or the WORK archive.
+
+STEP 2: Open the new repository, choose Add file > Upload files, and upload the contents of the github-pack folder (README.md, .gitignore, cheatsheets/, and notes/). Review the file list, then commit the upload. Change repository visibility only after your review and approval.
